@@ -1,6 +1,6 @@
 # 📁 Microsoft Build 2025 - Week 1 Project Setup
 
-This guide walks you through setting up and managing your WEEK 1 learning project using GitHub and Notion, with detailed tasks and exercises for each day.
+This guide walks you through setting up and managing your WEEK 1 learning project using GitHub and Notion, with detailed tasks, exercises, and learning content for each day.
 
 ---
 
@@ -48,8 +48,6 @@ git commit -m "Add Day 1 summary"
 git push origin main
 ```
 
-Repeat for each day.
-
 ### 3. GitHub Usage Guide
 
 1. **Create a new branch (optional but recommended for practice)**
@@ -96,15 +94,39 @@ Repeat for each day.
 
 ---
 
-## 🗓️ Day-wise GitHub & Notion Tasks
+## 🗓️ Day-wise Learning Content, GitHub & Notion Tasks
 
-### 🗓️ Day 1 Tasks
-| Task | Status | Priority | GitHub File | Deadline |
-|------|--------|----------|-------------|----------|
-| Watch keynote | To Do | High | - | June 5 |
-| Create GitHub repo | To Do | High | README.md | June 5 |
-| Write summary & commit Day 1 | To Do | Medium | day1-summary.md | June 5 |
-| Setup Notion project dashboard | To Do | High | - | June 5 |
+### 🗓️ Day 1 Tasks and Learning Content
+
+#### 🌟 Purpose & Goal:
+- Understand the Microsoft Build 2025 vision for AI-driven development.
+- Learn new features of Visual Studio and GitHub Copilot extensions.
+
+#### 📘 Study Materials:
+1. [Microsoft Build 2025 Keynote (0:00–5:33)](https://www.youtube.com/watch?v=...)
+2. Blog: ["Introducing AI Copilot Extensions"](https://devblogs.microsoft.com/...)
+3. Docs: ["Getting Started with GitHub Copilot"](https://docs.github.com/en/copilot/getting-started)
+
+#### 🧪 Exercise:
+1. Summarize Satya Nadella's keynote (200 words).
+2. List 3 new Visual Studio or Copilot features.
+3. Answer: What does AI-first development mean to you? (min 3 sentences).
+
+#### 🔧 GitHub Tasks:
+- Create `day1-summary.md`.
+- Commit the summary, feature list, and reflection.
+
+#### 🧠 Notion Tasks:
+- Create task: "Reflect on Microsoft Build 2025 Vision".
+- Add notes from video.
+- Link GitHub commit.
+
+#### Estimated Time:
+- Video & Reading: 30 mins
+- Writing & Reflection: 45 mins
+- GitHub & Notion update: 30 mins
+
+---
 
 ### 🗓️ Day 2 Tasks
 | Task | Status | Priority | GitHub File | Deadline |
@@ -155,7 +177,7 @@ Repeat for each day.
 ```markdown
 # 📅 Day X Summary
 
-## 🎯 Goal
+## 🌟 Goal
 Explain today's learning goals.
 
 ## 🧠 Notes
@@ -181,4 +203,3 @@ Let me know when you're ready for:
 - 🔄 Trello Board version
 - ⬇️ PDF/Word export
 - 🧱 Pre-filled Notion Template link
-Readme.md
